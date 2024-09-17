@@ -1,0 +1,17 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mailersend": "^2.3.0",
+    "resend": "^4.0.0"
+  }
+}
